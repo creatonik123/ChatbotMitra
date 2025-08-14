@@ -1,0 +1,18 @@
+This is a multi-modal, voice-interactive, sentiment-aware chatbot. 
+It integrates:
+
+Features:
+Speech-to-text using speech_recognition
+Subject extraction using spaCy
+Sentiment analysis using transformers (cardiffnlp/twitter-roberta-base-sentiment)
+Conversational responses using OpenAI GPT
+Text-to-speech output using pyttsx3
+Continuous listening/chat loop
+
+Tools & Technologies Used:
+speech_recognition (for audio input)
+spaCy (for NLP subject parsing)
+transformers (for sentiment detection)
+openai (for generating replies)
+pyttsx3 (for voice output)
+pyaudio, wave, etc.

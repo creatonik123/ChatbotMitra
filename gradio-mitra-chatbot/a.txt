@@ -1,0 +1,4 @@
+Loads a Hugging Face model (virinaa/mitra2) using your token.
+Builds a chatbot interface using Gradio with custom dark theme CSS.
+Enables chat interaction with response generation from the loaded model.
+Has a clean UI with styled chat bubbles, clear button, and instant interaction.
