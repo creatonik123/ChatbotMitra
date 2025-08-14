@@ -1,0 +1,30 @@
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# API keys or secrets
+*.key
+*.pem
+*.crt
+*.secret
+keys/
+secrets/
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+
+# Logs
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
+.env
